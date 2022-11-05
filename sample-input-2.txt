@@ -1,0 +1,7 @@
+ID,First,Status,Title
+541,Tim,Part Time,Accountant
+327,Allison,Full Time,Information Security
+
+ID,First,Status,Title
+541,Tim,Full Time,Senior Accountant
+100,Sally,Full Time,Line Manager
